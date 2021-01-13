@@ -1,0 +1,4 @@
+baseURL = "https://blackcards900.vercel.app"
+languageCode = "en-us"
+title = "Black Cards Picture"
+theme = "tale-hugo-master"
